@@ -8,3 +8,5 @@ github_pat_11ALNW66A0PcbdMuDHRUzP_JqJpiJZmlYCZZ0PY9DN0kQFCD6kwYxzQraGbkyEyPty3JY
 git remote set-url origin  https://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@github.com/qianchanga/ratote_test.git
 
 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
+
+http://2408480210@qq.com:lk24084802100@github.com/qianchanga/ratote_test.git
